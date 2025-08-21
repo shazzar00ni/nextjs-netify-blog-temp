@@ -14,7 +14,7 @@
         "markdown-to-jsx": "^7.7.1",
         "next": "^15.2.1",
         "react": "^19.0.0",
-        "react-dom": "^19.0.0",
+        "react-dom": "^19.1.1",
         "react-syntax-highlighter": "^15.6.1",
         "tailwindcss": "^4.0.12"
     },
